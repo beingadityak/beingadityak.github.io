@@ -25,7 +25,7 @@ enableRobotsTXT = "true"
 [[menu.main]]
     name = "blog"
     weight = 100
-    url = "https://blog.beingadityak.com"
+    url = "/posts/"
 [[menu.main]]
     name = "resume"
     weight = 200
