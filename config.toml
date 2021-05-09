@@ -1,0 +1,32 @@
+baseURL = "http://beingadityak.com/"
+languageCode = "en-us"
+title = "Aditya Krishnakumar"
+theme = "goa"
+author = "Aditya Krishnakumar"
+publishdir = "docs"
+
+enableRobotsTXT = "true"
+
+[params]
+    author = "Aditya Krishnakumar"
+    intro = "DevOps Consultant - Multi-cloud and Cloud Native"
+    description = "DevOps Consultant at Dynamic Elements. Previously IntelliMedia Networks and Crest Data Systems."
+    dateformat = "Jan 2, 2006"
+    authorimage = "aditya.jpeg"
+
+[params.social]
+    github = "beingadityak"
+    instagram = "beingadityak"
+    twitter = "beingadityak_"
+    email = "me@beingadityak.com"
+    linkedin = "beingadityak"
+    gitlab = "beingadityak"
+
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    url = "https://blog.beingadityak.com"
+[[menu.main]]
+    name = "resume"
+    weight = 200
+    url = "https://resume.beingadityak.com"
