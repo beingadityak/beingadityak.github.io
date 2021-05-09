@@ -12,7 +12,7 @@ enableRobotsTXT = "true"
     intro = "DevOps Consultant - Multi-cloud and Cloud Native"
     description = "DevOps Consultant at Dynamic Elements. Previously IntelliMedia Networks and Crest Data Systems."
     dateformat = "Jan 2, 2006"
-    authorimage = "aditya.jpeg"
+    authorimage = "aditya.png"
 
 [params.social]
     github = "beingadityak"
