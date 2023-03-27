@@ -9,8 +9,8 @@ enableRobotsTXT = "true"
 
 [params]
     author = "aditya krishnakumar"
-    intro = "devops consultant - multi-cloud and cloud native"
-    description = "devops consultant. previously bcg and other service-based companies."
+    intro = "devops consultant - multi-cloud and k8s"
+    description = "devops consultant. previously BCG and other service-based companies."
     dateformat = "Jan 2, 2006"
     authorimage = "aditya_krishnakumar.jpeg"
 
